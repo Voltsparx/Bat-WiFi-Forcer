@@ -54,7 +54,7 @@ Unauthorized access to computer networks is illegal. Use only on networks you ow
 
 <div class="code">
 # Clone the repository
-git clone https://github.com/voltsparx/batch-wifi-bruteforcer.git
+git clone https://github.com/voltsparx/Bat-WiFi-Forcer.git
 
 # Navigate to directory
 cd batch-wifi-bruteforcer
