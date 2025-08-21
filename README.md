@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; color: white; border-radius: 10px; }
-  .warning { background: #fff3cd; border: 1px solid #ffeaa7; padding: 1rem; border-radius: 5px; margin: 1rem 0; }
-  .feature-box { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 1rem 0; border-left: 4px solid #667eea; }
-  .code { background: #2d3748; color: #e2e8f0; padding: 1rem; border-radius: 5px; font-family: 'Courier New', monospace; }
-  .btn { display: inline-block; padding: 10px 20px; background: #667eea; color: white; text-decoration: none; border-radius: 5px; margin: 5px; }
-  .btn:hover { background: #5a67d8; }
-</style>
+
 </head>
 <body>
 
